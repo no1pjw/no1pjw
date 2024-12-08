@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Web Hacking & Algorithm 
-- 👯 I’m looking to collaborate on ... Game Programming
+- 🌱 I’m currently learning ... Hacking & Security
+- 👯 I’m looking to collaborate on ... Vaccine Programming
 - 🤔 I’m looking for help with ... not yet
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... instagram : @garden_1104
