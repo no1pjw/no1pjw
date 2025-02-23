@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... Hacking & Security
-- 👯 I’m looking to collaborate on ... Vaccine Programming
+- 👯 I’m looking to collaborate on ... mobile app mock hacking
 - 🤔 I’m looking for help with ... not yet
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... instagram : @garden_1104
